@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "dependencies": {
+    "canvas": "^3.2.0",
+    "express": "^5.1.0",
+    "form-data": "^4.0.4",
+    "node-fetch": "^3.3.2",
+    "puppeteer": "^24.23.0"
+  }
+}
